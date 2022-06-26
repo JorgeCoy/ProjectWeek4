@@ -11,7 +11,7 @@
 
 ## Usage
 Add `app1` for some dependencies to your project:
-# using app1
+# using app2
 is necesary that you install de app2 an den use de next javascript
 
 ```javascript
@@ -22,4 +22,13 @@ is necesary that you install de app2 an den use de next javascript
 
 To read the documentation, please visit [JCweb](https://jorgecoy.github.io/).
 
+## Support
+jorgecoy@gmail.com
+
+##License Information 
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+## Autores ✒️
+Jorge Coy estudiante 
+Emeritus Latam - Instructores
 ## Contributing 🙏
