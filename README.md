@@ -25,7 +25,7 @@ To read the documentation, please visit [JCweb](https://jorgecoy.github.io/).
 ## Support
 jorgecoy@gmail.com
 
-##License Information 
+## License Information 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 ## Autores ✒️
